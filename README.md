@@ -1,2 +1,2 @@
 # MCM
-Example of Monte Carlo Integration
+An example of Monte Carlo integration
